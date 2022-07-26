@@ -3,11 +3,6 @@
 
 ---
 
-### What I'm working on right now (as of June 5 2022).. 💻 
-
-### [plus [+]](https://github.com/NalinPlad/plus) 🧮
-> A CLI calculator written in rust
-
 Most of my repos are just small side projects I make to try and  
 experement with something. For example a started working on `plus` to  
 learn Rust, and also learned about the `lalrpop` parser generator(very   
