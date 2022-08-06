@@ -1,15 +1,24 @@
-### My 👋 README.md
-###### Hey that rhymes
+
+<h3 align="center">:computer: NalinPlad - Programmer, Haxxor, and Artist(see below) :paintbrush:</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/43052612/183144184-54cb962d-f83b-4f45-968e-3927d0599d87.png">
+</p>
+
+
+
+<p align="center">
+Most of my repos are just small side projects I make to try and <br> 
+experement with something. For example a started working on <code>plus</code> to  <br>
+learn Rust, and also about the <code>lalrpop</code> parser generator.
+</p>
 
 ---
 
-Most of my repos are just small side projects I make to try and  
-experement with something. For example a started working on `plus` to  
-learn Rust, and also learned about the `lalrpop` parser generator(very   
-amazing project btw go [check it out](https://github.com/lalrpop/lalrpop))
-  
----  
+<p align="center">
 
-###### My crush's name is [80c5e536eec8387cccad28b8b17b933832244998d85918abf18cc9bada5d4fe9](https://www.zkcrush.xyz/crush?hash=c184de17b286f57d97606c11f318d1fd726257f8db66ad8184c3db011b7d530c&name=NalinPlad)
+  <img src="https://github-readme-stats.vercel.app/api?username=NalinPlad&show_icons=true&theme=radical">
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NalinPlad&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+###### 80c5e536eec8387cccad28b8b17b933832244998d85918abf18cc9bada5d4fe9
