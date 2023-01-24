@@ -11,7 +11,17 @@
 Most of my repos are just small side projects I make to try and <br> 
 experement with something. For example a started working on <code>plus</code> to  <br>
 learn Rust, and also about the <code>lalrpop</code> parser generator ✨
+
+    
 </p>
+ 
+<div align="center">
+  <img src="https://cyber.dabamos.de/88x31/best_viewed_with_eyes.gif"/>
+  <img src="https://cyber.dabamos.de/88x31/vim_a.gif"/>
+  <img src="https://cyber.dabamos.de/88x31/gethtmlnow.gif"/>
+  <img src="https://cyber.dabamos.de/88x31/bestviewed16bit.gif"/>
+  <img src="https://cyber.dabamos.de/88x31/aoltos_a.gif"/>
+</div>
 
 ---
 
