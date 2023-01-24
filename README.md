@@ -22,4 +22,4 @@ learn Rust, and also about the <code>lalrpop</code> parser generator ✨
 
 ---
 
-###### 80c5e536eec8387cccad28b8b17b933832244998d85918abf18cc9bada5d4fe9
+###### 80c5e536eec8387cccad28b8b17b933832244998d85918abf18cc9bada5d4fe8
