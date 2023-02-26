@@ -9,7 +9,7 @@
 <p align="center">
   ✨
 Most of my repos are just small side projects I make to try and <br> 
-experement with something. For example a started working on <code>plus</code> to  <br>
+experiment with something. For example a started working on <code>plus</code> to  <br>
 learn Rust, and also about the <code>lalrpop</code> parser generator ✨
 
     
