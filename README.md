@@ -23,12 +23,12 @@ learn Rust, and also about the <code>lalrpop</code> parser generator ✨
   <img src="https://cyber.dabamos.de/88x31/aoltos_a.gif"/>
 </div>
 
----
-
+<!-- --- -->
+<!-- 
 <p align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=NalinPlad&show_icons=true&theme=radical">
-</p>
+</p> -->
 
 ---
 
