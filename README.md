@@ -1,11 +1,12 @@
 
-<h3 align="center">:computer: NalinPlad - Programmer, Haxxor, and Artist(see below)</h3>
+<h3 align="center">:computer: NalinPlad - Programmer, Haxxor, and !Artist(see below)</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/43052612/183144184-54cb962d-f83b-4f45-968e-3927d0599d87.png">
 </p>
 
 <p align="center">
-  
+  <h6 align="center">Above: SHA256 Checkshum contains DECAF(real)</h6>
+  <h6 align="center">Below: Map of the internet(click on the image to learn more)</h6>
 </p>
 
 <p align="center">
