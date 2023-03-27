@@ -1,18 +1,15 @@
 
-<h3 align="center">:computer: NalinPlad - Programmer, Haxxor, and Artist(see below) :paintbrush:</h3>
+<h3 align="center">:computer: NalinPlad - Programmer, Haxxor, and Artist(see below)</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/43052612/183144184-54cb962d-f83b-4f45-968e-3927d0599d87.png">
 </p>
 
-
+<p align="center">
+  
+</p>
 
 <p align="center">
-  ✨
-Most of my repos are just small side projects I make to try and <br> 
-experiment with something. For example a started working on <code>plus</code> to  <br>
-learn Rust, and also about the <code>lalrpop</code> parser generator ✨
-
-    
+  <a href="https://github.com/NalinPlad/wPing"><img width=1000 src="https://user-images.githubusercontent.com/43052612/228078609-42ea3660-2afe-41c3-a8d3-e98532ec5c57.png"></a>
 </p>
  
 <div align="center">
