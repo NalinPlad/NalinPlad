@@ -1,5 +1,7 @@
 
-<h3 align="center">:computer: NalinPlad - Programmer, Haxxor, and !Artist(see below)</h3>
+<h1 align="center">:computer: NalinPlad </h1>
+<h3 align="center">Programmer, Haxxor, and !Artist(see below)</h3>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/43052612/183144184-54cb962d-f83b-4f45-968e-3927d0599d87.png">
 </p>
