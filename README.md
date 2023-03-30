@@ -12,7 +12,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NalinPlad/wPing"><img width=1000 src="https://user-images.githubusercontent.com/43052612/228078609-42ea3660-2afe-41c3-a8d3-e98532ec5c57.png"></a>
+  <a href="https://github.com/NalinPlad/wPing"><img width=800 src="https://user-images.githubusercontent.com/43052612/228078609-42ea3660-2afe-41c3-a8d3-e98532ec5c57.png"></a>
+</p>
+
+<p align="center">
+  <h6 align="center">Below: Fractals Rendered using my GPU fractal renderer</h6>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NalinPlad/gpu_fractals"><img width=500 src="https://user-images.githubusercontent.com/43052612/224511981-5e241ffb-b44b-4cc0-b1fd-b4e1f0e4bfc6.png"></a>
+  <a href="https://github.com/NalinPlad/gpu_fractals"><img width=500 src="https://user-images.githubusercontent.com/43052612/224511979-4a1ae3d4-9b65-4dad-b70a-de83ac91979b.png"></a>
 </p>
  
 <div align="center">
