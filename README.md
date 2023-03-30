@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/NalinPlad/gpu_fractals"><img width=500 src="https://user-images.githubusercontent.com/43052612/224511981-5e241ffb-b44b-4cc0-b1fd-b4e1f0e4bfc6.png"></a>
-  <a href="https://github.com/NalinPlad/gpu_fractals"><img width=500 src="https://user-images.githubusercontent.com/43052612/224511979-4a1ae3d4-9b65-4dad-b70a-de83ac91979b.png"></a>
+  <a href="https://github.com/NalinPlad/gpu_fractals"><img width=400 src="https://user-images.githubusercontent.com/43052612/224511981-5e241ffb-b44b-4cc0-b1fd-b4e1f0e4bfc6.png"></a>
+  <a href="https://github.com/NalinPlad/gpu_fractals"><img width=400 src="https://user-images.githubusercontent.com/43052612/224511979-4a1ae3d4-9b65-4dad-b70a-de83ac91979b.png"></a>
 </p>
  
 <div align="center">
