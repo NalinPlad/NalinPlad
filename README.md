@@ -1,5 +1,5 @@
 
-<h1 align="center">:computer: NalinPlad </h1>
+<h1 align="center">NalinPlad</h1>
 <h3 align="center">Programmer, Haxxor, and !Artist(see below)</h3>
 
 <p align="center">
