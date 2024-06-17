@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <a href="https://summap.vercel.app"><img width=400 src="https://github.com/NalinPlad/NalinPlad/assets/43052612/dafcccd7-5eac-4d41-b15a-cde1edb529bc"></a>
+  <a href="https://summap.vercel.app"><img width=800 src="https://github.com/NalinPlad/NalinPlad/assets/43052612/dafcccd7-5eac-4d41-b15a-cde1edb529bc"></a>
 </p>
  
 <div align="center">
