@@ -23,6 +23,14 @@
   <a href="https://github.com/NalinPlad/gpu_fractals"><img width=400 src="https://user-images.githubusercontent.com/43052612/224511981-5e241ffb-b44b-4cc0-b1fd-b4e1f0e4bfc6.png"></a>
   <a href="https://github.com/NalinPlad/gpu_fractals"><img width=400 src="https://user-images.githubusercontent.com/43052612/224511979-4a1ae3d4-9b65-4dad-b70a-de83ac91979b.png"></a>
 </p>
+
+<p align="center">
+  <h6 align="center">Below: A map of hackathon attendees @ Hack Club Leader's <a href="https://summit.hackclub.com">Summit</a></h6>
+</p>
+
+<p align="center">
+  <a href="https://summap.vercel.app"><img width=400 src="https://github.com/NalinPlad/NalinPlad/assets/43052612/dafcccd7-5eac-4d41-b15a-cde1edb529bc"></a>
+</p>
  
 <div align="center">
   <img src="https://cyber.dabamos.de/88x31/best_viewed_with_eyes.gif"/>
