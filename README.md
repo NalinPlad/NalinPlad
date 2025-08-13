@@ -31,6 +31,14 @@
 <p align="center">
   <a href="https://summap.vercel.app"><img width=800 src="https://github.com/NalinPlad/NalinPlad/assets/43052612/dafcccd7-5eac-4d41-b15a-cde1edb529bc"></a>
 </p>
+
+<p align="center">
+  <h6 align="center">Below: Visualization of ALPR data sharing, helping to uncover <a href="https://x.com/0010001_/status/1954958795316269449">illegal practices</a></h6>
+</p>
+
+<p align="center">
+  <a href="https://flock.ajith.fyi"><img width=800 src="https://github.com/user-attachments/assets/2ccbe446-248b-45cd-adf5-164e5a4cb1dd"></a>
+</p>
  
 <div align="center">
   <img src="https://cyber.dabamos.de/88x31/best_viewed_with_eyes.gif"/>
